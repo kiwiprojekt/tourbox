@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kiwiprojekt.tourbox", "kiwiprojekt.tourbox\kiwiprojekt.tourbox.csproj", "{88538A3F-812C-480C-ADFB-2677DC1B6712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kiwiprojekt.tourbox.consoleapp", "kiwiprojekt.tourbox.consoleapp\kiwiprojekt.tourbox.consoleapp.csproj", "{735EBCFF-3413-4004-AFBD-4849E412CD9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88538A3F-812C-480C-ADFB-2677DC1B6712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88538A3F-812C-480C-ADFB-2677DC1B6712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88538A3F-812C-480C-ADFB-2677DC1B6712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88538A3F-812C-480C-ADFB-2677DC1B6712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{735EBCFF-3413-4004-AFBD-4849E412CD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{735EBCFF-3413-4004-AFBD-4849E412CD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{735EBCFF-3413-4004-AFBD-4849E412CD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{735EBCFF-3413-4004-AFBD-4849E412CD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2BD2EFF-DAA9-456B-8E26-9C3CED22A83E}
+	EndGlobalSection
+EndGlobal
