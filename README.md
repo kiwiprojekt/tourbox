@@ -3,7 +3,8 @@
 Small library to read actions from [TourBox](https://www.tourboxtech.com/en/) controller by serial port.
 
 
-
+### nuget.org
+[kiwiprojekt.tourbox](https://www.nuget.org/packages/kiwiprojekt.tourbox/)
 
 ### How to use
 ```csharp
